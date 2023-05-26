@@ -61,3 +61,5 @@ class Sigmoid:
         dx = dout * (1.0 - self.out) * self.out
 
         return dx
+    
+    asdfasdf
